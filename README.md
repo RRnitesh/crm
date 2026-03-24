@@ -10,9 +10,8 @@ a basic crm system built with Laravel and Express.js.
   php artisan serve in backend folder 
   php artisan schedule:work in backend folder
   node index.js in node service folder.
-3. visit the postman collection link below to test the APIs.
+3. you can find the postman collection in the root folder of the project named "postman_collection.json". Import it to test the APIs.
 
-https://niteshofficial678-5953312.postman.co/workspace/Nitesh's-Workspace~2c1ac82f-88be-4840-8ee7-980aa59162f5/collection/49632117-3d7aee93-3ffa-4ece-8509-16a38aab316b?action=share&source=copy-link&creator=49632117
 
 for login, use the following credentials for admin user.
 
