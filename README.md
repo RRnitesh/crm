@@ -1,7 +1,7 @@
 a basic crm system built with Laravel and Express.js.
 
 •	Git repository link
-
+https://github.com/RRnitesh/crm
 
 •	How to run the project 
 1. inside crm folder: laravel project is in backend folder and node project in node-serive folder.
